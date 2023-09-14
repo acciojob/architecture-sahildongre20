@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+
+body{
+	width:1100px;
+	background-color:#cbd6cbff;
+}
+table{
+	text-align: center;
+}
+img{
+	width: 200px;
+}
+
+.left, .right{
+	width:200px;
+	
+	
+}
+.middle{
+	width:600px;
+	
+}
+tabel,td{
+	border: 1px solid black;
+}
